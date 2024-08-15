@@ -2,7 +2,6 @@ TOMATO FOOD APP
 ========================================================================================================================================
 Tomato allows you to buy food through their website or via a mobile app, which can be downloaded using the downloadd picture. Products are fetched using the backend. Items in the cart are stored using local storage.
 
-### WARNING: BACKEND IS SLOW.
 
 ## Email
 example@example.com
